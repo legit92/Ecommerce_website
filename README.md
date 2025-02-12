@@ -180,3 +180,5 @@ Key learnings -
 
 - We have created an endpoint that will send data from extract and send data from mongodb.
 - We have also receive data at frontend and display that data dynamically using product card created earlier.
+
+## Milestone 12: project Overview -
